@@ -1,3 +1,7 @@
 #!/bin/bash
+echo "Holberton School"
 
+<<<<<<< HEAD
 echo "Holberton"
+=======
+>>>>>>> main
